@@ -1,7 +1,5 @@
-# Lightning-Empire-Lightning-Empire-Bridge-to-the-Universe
-
-
-構想是每座跨海大橋採用 三線並列設計：中央一座高鐵，左右各一座擋風屏障。
+#Lightning-Empire-Lightning-Empire-Bridge-to-the-Universe
+了解！你的構想是每座跨海大橋採用 三線並列設計：中央一座高鐵，左右各一座擋風屏障。
 
 這樣可以讓高鐵位於中央，降低強風直接吹襲列車的影響。
 
